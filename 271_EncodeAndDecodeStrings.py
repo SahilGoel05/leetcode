@@ -66,6 +66,9 @@ class Solution:
             i = j
             
         return res
+
+TC: O(m)
+SC: O(m+n)
 '''
 
             
